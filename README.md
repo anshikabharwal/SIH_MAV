@@ -9,5 +9,5 @@ Ministry Name: Ministry of Defense <br>
 Theme Name: Smart Automation <br><br>
 
 <h3>Presentation and Prototype</h3>
-Presentation Link - https://docs.google.com/presentation/d/12Go231OEaPwLiKy6sTDl16JsApUGohft/edit?usp=sharing&ouid=105979404003489260290&rtpof=true&sd=true <br>
+Presentation Link - https://drive.google.com/file/d/1AZr-ITWBenj_3AgDYQOvWnBTcSW-p2Xe/view?usp=drivesdk <br>
 Video Prototype Link - https://youtu.be/Ni9JRBwZUow
